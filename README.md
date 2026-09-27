@@ -1,1 +1,2 @@
-# Nandana
+## Automatic rain sensor
+The mini project focuses on designing a regulated DC power supply for an automatic wiper system based on a rain sensor. The system uses a rain sensor to detect rainfall and a microcontroller to control the wiper motor. A stable power supply is required for the sensor, microcontroller, and motor. The proposed power supply converts a 12 V DC input from a battery or adapter into regulated 5 V or 3.3 V outputs. It is designed to provide reliable power even when the motor causes load variations, while reducing voltage ripple and noise. The system supports separate powering of the sensor, microcontroller, and actuator for safe and efficient operation.
